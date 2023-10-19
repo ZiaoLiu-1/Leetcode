@@ -1,0 +1,18 @@
+Here is a catalog for you to reference the problems.
+For beginners, I recommand doing question 70 first to help you develope a 
+basic understanding of dynammic programming. The question is faily easy, 
+almost identical to Fibonacci Number question. I encourage you to try the 
+bottum up apporach to solve the questions. There will be more detailed 
+description for the problems in the directory that help you understand and 
+do the problem. 
+
+Easy:
+	70: Clibing Stairs
+	121: Best Time to Buy and Sell Stock
+	509: Fibonnaci number // Do this first if you are beginner, then 
+do 70.
+
+Medium:
+	376: Wiggle Subsequence
+	322: Coin Change
+
